@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtbQLLTGUfJ8FbUAudToiVl61BwTQ3e/6nSM0OWeNDy6uufyOcOcwYUwyVmIaEbh/gW1kO+9AEvqH1X9IeVgag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harun\\source\\repos\\WeatherForecast\\WeatherForecast\\WeatherForecast.iOS\\WeatherForecast.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harun\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.3\\sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\syncfusion.licensing\\18.4.0.35\\syncfusion.licensing.18.4.0.35.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\syncfusion.xamarin.core\\18.4.0.35\\syncfusion.xamarin.core.18.4.0.35.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\syncfusion.xamarin.expander\\18.4.0.35\\syncfusion.xamarin.expander.18.4.0.35.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\Harun\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.1874\\xamarin.forms.maps.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

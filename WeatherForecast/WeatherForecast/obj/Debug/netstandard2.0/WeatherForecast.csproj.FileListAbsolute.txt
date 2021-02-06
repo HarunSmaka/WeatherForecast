@@ -1,0 +1,17 @@
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.dll
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\ref\WeatherForecast.dll
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.pdb
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.deps.json
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.dll
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\ref\WeatherForecast.dll
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.pdb
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\Views\SearchPage.xaml.g.cs
+C:\Users\Harun\source\repos\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\Views\AddLocation.xaml.g.cs

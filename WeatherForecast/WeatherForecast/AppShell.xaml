@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:WeatherForecast"
+       Title="WeatherForecast"
+       x:Class="WeatherForecast.AppShell" BackgroundColor="#7585BA" BackgroundImageSource="overlay.png" x:Name="myshell">
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior
+        
+        IsEnabled="False"
+         />
+    </Shell.BackButtonBehavior>
+    <Shell.FlyoutHeader>
+        <StackLayout HeightRequest="100" VerticalOptions="Center" BackgroundColor="#7585BA">
+
+            <Label Text="Weather Forecast" FontSize="Large" TextColor="white"
+                   HorizontalTextAlignment="Center" VerticalTextAlignment="Center" 
+                   VerticalOptions="Center" Padding="0,35,0,0"/>
+        </StackLayout>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Title="myTabApp" Shell.TabBarIsVisible="False"
+            FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellContent x:Name="MainPage" Route="MainPage" Title="Current Location" Icon="location.png" IsTabStop="True" ContentTemplate="{DataTemplate local:Views.CurrentWeatherPage} "/>
+        <ShellContent Title="Search" Icon="search.png" IsTabStop="True" ContentTemplate="{DataTemplate local:Views.SearchPage}" />
+        <ShellContent Title="Add City" Icon="add.png" IsTabStop="True" ContentTemplate="{DataTemplate local:Views.AddLocation}" />
+
+    </FlyoutItem>
+
+</Shell>
